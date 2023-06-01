@@ -1,0 +1,146 @@
+{
+    "article01": {
+        "title" : "NeuroIS Knowledge Discovery Approach to Prediction of Traumatic Brain Injury Survival Rates: A Semantic Data Analysis Regression Feasibility Study",
+        "abstract" : "The study of Neuro-IS often contains huge amounts of data. While the outcomes of this process are well documented, little has been written about the collection and dissemination of this data. In order to fill this gap, we looked at hospital ships which provide a medical asset in support of military operations. We collected data on three ship variables and four physiological body region injuries (head, torso, extremities and abrasions). We ran an exploratory regression analysis and found a significant relationship may exist (p < 0.000) for the overall model. In medical diagnosis, it is important to not only maximize correct classifications, but also to minimize Type I and Type II errors. We contend that predicting a patient that does not have TBI, will survive, when in fact the patient does have TBI, is a worse error than when a patient that has been diagnosed with TBI and in reality does not."
+    },
+    "article02": {
+        "title" : "The Status Quo of Neurophysiology in Organizational Technostress Research: A Review of Studies Published from 1978 to 2015",
+        "abstract" : "We report on the status quo of neurophysiology in organizational technostress research, showing how neurophysiological tools have been applied in technostress studies with a focus on the organizational level of analysis. Based on a review of research published in peer-reviewed journals, we found that neurophysiological tools have seen relatively frequent application, particularly in early technostress studies (1970–1990s), but have since then been on the decline. We also found that contemporary organizational technostress research relies heavily on survey-based approaches to study the nature, causes, and effects of this phenomenon, almost completely neglecting prior successful applications of neurophysiological tools."
+    },
+
+    "article03": {
+        "title" : "The Impact of Interruptions on Technology Usage: Exploring Interdependencies Between Demands from Interruptions, Worker Control, and Role-Based Stress",
+        "abstract" : "Mobile technologies have dramatically increased the number of work-related interruptions. In many organizations, employees have to remain accessible and respond to these technology-mediated (T-M) interruptions even after regular work hours. At the same time, most employees have limited freedom to decide how and when they accomplish their tasks, a work condition that renders the explosion of T-M interruptions problematic. When people have limited control over their work environment, they cannot adapt their work schedules and methods to the additional demands from T-M interruptions, potentially leading them to be stressed and, in turn, to shy away from using the technologies that create these interruptions. Hence, we propose that demands from T-M interruptions negatively affect work-related IT-usage via workers’ experiences of stress and that this indirect effect depends on worker control. Psychological and physiological data (salivary cortisol and alpha-amylase) will be collected and analyzed through advanced procedures for testing moderated-mediation effects."
+    },
+
+    "article04": {
+        "title" : "An Investigation of the Nature of Information Systems from a Neurobiological Perspective",
+        "abstract" : "The purpose of this paper is to investigate how ISs may be conceptualized from an individual, neurobiological perspective. The point of departure is the fact that brains evolved to control the activities of bodies in the world. Based on a number of theoretical contributions bordering between the neural and social realms, a novel IS conceptualization emerges as a dialectical unity of functional organs in the brain and the IT artifact. As a consequence, the IS is conceptualized as intrinsically associated with the individual. I discuss implications of this position for epistemology, ontology, and representation, which are all fundamental aspects of IS research. In conclusion, I claim that a neurobiological perspective on IS has a great potential to advance the discussion of the nature of the IS."
+    },
+
+    "article05": {
+        "title" : "A Hot Topic—Group Affect Live Biofeedback for Participation Platforms",
+        "abstract" : "Emotions are omnipresent in our lives. They influence our health, decision making, and social interactions—bilateral as well as multilateral. Hence also modern forms of opinion building and exchange, e.g., on e-participation platforms, should consider the effects of emotions on individual and group level. Previous research on group interactions demonstrated that providing the members with information about the affective state of the entire group, reciprocally influences the affective states of the individuals and can even increase group performance. Hence, in the current short paper we propose group affect live biofeedback (LBF) as a beneficial feature for e-participation platforms. We want to examine how group affect LBF based on the participant’s heart rate impacts participation behavior."
+    },
+
+    "article06": {
+        "title" : "(Online)-Buying Behavior and Personality Traits: Evolutionary Psychology and Neuroscience Based",
+        "abstract" : "This paper tries to link findings from evolutionary psychology and neuroscience with the aim to adapt traditional buying models and, as a result, shed new light on the different buying behavior. Out of these theories one can derive that (online) buying behavior is in a general sense twofold. Need-oriented-buying behavior: We purchase goods because we have a need. Yet, this purchase contributes little to our happiness since it is a sheer necessity. Want-oriented buying behavior: Many goods, however, are bought because we “want” and “like” them based on our experience or due to the fact that they are new. Such products generally generate a so-called “incentive salience”. By adding the additional dimension of an involvement component, a two-dimensional model with four archetypical types can be established: (a) Extensive buying, (b) effort-minimizing buying, (c) self-indulgent buying, and (d) conspicuous buying."
+    },
+
+    "article07": {
+        "title" : "Choice of a NeuroIS Tool: An AHP-Based Approach",
+        "abstract" : "The primary focus of NeuroIS research from a methodological perspective is set on methods and research design, data collection, and data analysis. In this paper, we address a practical problem, related to the data collection phase, namely the choice of a data collection instrument, or a NeuroIS tool. Before making a tool decision, researchers have to carefully study the features of each device, based on specified requirements, in order to select the most suitable tool. Thus, the tool choice becomes a multi-criteria decision making problem. In this paper, we propose an Analytic Hierarchy Process (AHP)-based approach for the selection of a NeuroIS tool. We introduce a framework based on a step-by-step procedure of decision hierarchy creation, followed by the construction of a list of potential measurement tools, and the execution of the AHP decision making process."
+    },
+
+    "article08": {
+        "title" : "Foreign Live Biofeedback: Using Others’ Neurophysiological Data",
+        "abstract" : "Advances in sensor technology and real-time analysis of neurophysiological data have enabled the use of live biofeedback in information systems and the development of neuro-adaptive information systems. In this article, we transfer this notion to the use of foreign neurophysiological data. We sketch out an experimental approach and research model for investigating the impact of such foreign data in a trust scenario. We argue that foreign live biofeedback may be a powerful means to establish social presence and thus trust among the parties. Moreover, we discuss controversies such technology is likely to raise and sketch out potential strategies for IS service providers in this regard."
+    },
+
+    "article09": {
+        "title" : "What Does the Skin Tell Us About Information Systems Usage? A Literature-Based Analysis of the Utilization of Electrodermal Measurement for IS Research",
+        "abstract" : "The term NeuroIS appears more frequently within the field of information system (IS). NeuroIS describes the idea of applying cognitive neuroscience theories, methods, and tools to obtain physiological responses of the user while using IS. However, before adopting these methods into IS research, a proper assessment is necessary to determine whether the methods used in other disciplines are also applicable to IS research. The present research introduces the method of measuring the electrodermal activity (EDA). Thereby, the physiology and different measurement parameters are described. By identifying the use of EDA within other disciplines, the present research reveals application areas for EDA in six different research streams in IS research and poses further research questions, which might be answer by applying EDA in these areas."
+    },
+
+    "article10": {
+        "title" : "A Novel, Low-Cost NeuroIS Prototype for Supporting Bio Signals Experimentation Based on BITalino",
+        "abstract" : "Principles of openness and collaboration that catalyze open-source software innovation have also been successfully transferred into the world of hardware [1]. Advances in open-source hardware allow students, researchers and hobbyists to custom build devices for a wide variety of purposes. Open-source prototyping platforms like Arduino and Raspberry Pi empower people to build cheap, modular, and easy to use alternatives to expensive commercial grade scientific equipment. The authors argue that the use of open-source hardware in building neuroIS research tools will dramatically decrease the costs and complexity associated with research in university laboratories. In this work, we discuss the use of open-source hardware in neuroIS research. We present the design of a neuroIS research tool based on BITalino, a biosignal capturing and processing platform. We also present a novel prototype that is specifically tuned toward neuroIS research using the API provided by the creators of BITalino."
+    },
+
+    "article11": {
+        "title" : "The Evaluation of Different EEG Sensor Technologies",
+        "abstract" : "We tested seven different EEG electrode systems according user centered, operator centered and technical aspects. In the initial testing phase we focused on technical aspects and more simple experimental tasks. The results of these first tests were used to select the best three systems in an advanced testing phase. In this second testing phase a P300 based BCI was used to navigate through a multimedia player, selecting music and video clips. The results showed that each of the systems has its advantages and disadvantages which should be considered when planning future NeuroIS studies using EEG."
+    },
+
+    "article12": {
+        "title" : "Choice Architecture: Using Fixation Patterns to Analyze the Effects of Form Design on Cognitive Biases",
+        "abstract" : "User-generated online reviews are an important input into purchase decisions, but are susceptible to cognitive biases, which ultimately undermine the reviews’ value. As even minor changes to the design of online environments (such as Web pages) can influence people’s behavior, design modifications to online review forms could help reduce biases. We hypothesize that design modifications to online forms can help reduce three common sources of biases (availability, anchoring, and response style), and propose an experiment that employs eye tracking and recording of mousing behavior to test the hypotheses."
+    },
+
+    "article13": {
+        "title" : "Neurophysiological Analysis of Visual Syntax in Design",
+        "abstract" : "Creative design activities in the development of software-intensive systems involve the wide use of visual tools, such as flowcharts and UML diagrams. In this research-in-progress paper, we explore the potential of eye fixation related potential (EFRP) as a method to assess the efficacy of visual notations used to build and evaluate IT artifacts. Drawing on past work in the areas of visual syntax and semantics, we ask whether selection of visual forms is a significant predictor of design artifact quality and utility. In particular, we propose a study that combines the use of EEG and EFRP methods to analyze the neurophysiological correlates of how designers employ visual syntax in the development of IT artifacts for software-intensive systems. Implications for both research and practice are discussed."
+    },
+
+    "article14": {
+        "title" : "The Influence of Cognitive Abilities and Cognitive Load on Business Process Models and Their Creation",
+        "abstract" : "While factors impacting process model comprehension are relatively well understood by now, little is know about process model creation and factors impacting process model quality. This paper proposes a research model to investigate the influence of cognitive abilities and a continuous psycho-physiological measure of task imposed cognitive load of process model designers on process model quality. The proposed research will not only contribute a better understanding of process model creation, but bears significant potential for improving existing modeling notations as well as for developing process modeling environments."
+    },
+
+    "article15": {
+        "title" : "An Evolutionary Explanation of Graph Comprehension Using fMRI",
+        "abstract" : "Evolution has equipped Homo sapiens with a wide range of inherent abilities. One of those abilities is comprehending graphical representations. We claim that comprehension is only inherent if the representation has an analogy in the evolutionary environment. We test this using a fMRI study to show that certain graphs activate the visual cortex and others do not. Furthermore those that activate the visual cortex result in greater accuracy."
+    },
+
+    "article16": {
+        "title" : "Investigation of the Relationship Between Visual Website Complexity and Users’ Mental Workload: A NeuroIS Perspective",
+        "abstract" : "We report promising research-in-progress results from an ongoing experiment on the relationship between visual website complexity and users’ mental workload. Applying pupillary based workload assessment as a NeuroIS methodology we found indications that navigation complexity, i.e., the number of (sub)menus, is more problematic than information complexity."
+    },
+
+    "article17": {
+        "title" : "Measuring Cognitive Load During Process Model Creation",
+        "abstract" : "While factors impacting process model comprehension are relatively well understood by now, little is known about process model creation and factors impacting the quality of the resulting process model as well as the modeler’s cognitive load. In this paper we propose to combine a continuous, psycho-physiological measurement of cognitive load with a detailed analysis of the modeler’s interactions of the modeling environment as well as eye movement analysis to obtain task-specific imposed cognitive load values. We present initial results in terms of a tool, lessons learnt from a pilot study and discuss upcoming challenges. This work provides the basis for investigating task imposed cognitive load during process model creation by enabling a dynamic, semi–automatic analysis of cognitive load."
+    },
+
+    "article18": {
+        "title" : "Cognitive Differences and Their Impact on Information Perception: An Empirical Study Combining Survey and Eye Tracking Data",
+        "abstract" : "Research shows that the quality of managerial decision making is dependent on both the availability and the interpretation of information. Visualizations are widely used to transform raw data into a more understandable format and to compress the constantly growing amount of information being produced. However, research in this area is highly fragmented and results are contradicting. A possible explanation for inconsistent results is the neglect of individual characteristics such as experience, working memory capacity, or cultural background. We propose a preliminary model based on an extensive literature review on cognition theory that sheds light on potential individual antecedents of information processing efficiency. Our preliminary results based on eye tracking, automated span tasks, as well as survey data show that domain expertise, spatial ability and long term orientation exert a significant influence on this cognitive construct."
+    },
+
+    "article19": {
+        "title" : "Using fMRI to Explain the Effect of Dual-Task Interference on Security Behavior",
+        "abstract" : "We examine how security behavior is affected by dual-task interference (DTI), a cognitive limitation in which even simple tasks cannot be simultaneously performed without significant performance loss. We find that security messages that interrupt users actually make users more vulnerable by increasing security message disregard behaving against the recommended course of action of a security message. We study the previously unexamined effect of DTI on a secondary, interrupting task a security message. In a security context, it is critical that his interruption be carefully heeded. We use functional magnetic resonance imaging (fMRI) to explore (1) how DTI occurs in the brain in response to interruptive security messages and (2) how DTI influences security message disregard. We show that neural activation in the medial temporal lobe (MTL) a brain region associated with declarative memory is substantially reduced under a condition of high DTI, which in turn significantly predicts security message disregard."
+    },
+
+    "article20": {
+        "title" : "Measuring Appeal in Human Computer Interaction: A Cognitive Neuroscience-Based Approach",
+        "abstract" : "Appeal refers to the positive emotional response to an aesthetic, beautiful, or in another way desirable stimulus. It is a recurring topic in information systems (IS) research, and is important for understanding many phenomena of user behavior and decision-making. While past IS research on appeal has relied predominantly on subjective self-rating scales, this research-in-progress paper proposes complementary objective measurement for appeal. We start by reviewing the linkages between the theoretical constructs related to appeal and their neurophysiological correlates. We then review past approaches to measuring appeal and discuss their characteristics. Finally, we arrive at a recommendation that builds on a combination of psychophysiology (EDA, facial EMG) and brain imaging (fNIRS)."
+    },
+
+    "article21": {
+        "title" : "Mobile App Preferences: What Role Does Aesthetics and Emotions Play?",
+        "abstract" : "This research-in-progress reports on the development of a NeuroIS measurement model for studying the role of emotions in non-instrumental preferences. We aim at exploring the effects of emotions and aesthetics on users’ preferences for mobile application. The context of mobile apps is interesting because the phenomenon of high initial adoption but very low retention is still unexplained. For this, we aesthetically manipulated mobile apps, and measured subjects’ affective responses. Our approach builds on galvanic skin response (GSR) and surface electromyography of the face."
+    },
+
+    "article22": {
+        "title" : "Identifying Neurological Patterns Associated with Information Seeking: A Pilot fMRI Study",
+        "abstract" : "The aim was to determine if search task types and the modality of search result presentation lead to differential neurological responses. Based on data collected from 12 healthy adults (18–25 years old), using an fMRI-based methodology, a significant main effect was identified for task type and ranking. An interaction was also found between ranking and accuracy."
+    },
+
+    "article23": {
+        "title" : "Proposal for the Use of a Passive BCI to Develop a Neurophysiological Inference Model of IS Constructs",
+        "abstract" : "The measurement of constructs in the field of informationsystems (IS) is often performed with the use of retrospective or intrusive psychometric tools that may be subject to biases. Using a passive brain–computer interface (BCI) to measure these constructs continuously in real-time without interrupting the participants would be a great addition to the toolbox of IS researchers. While the development of BCIs has been explored elsewhere, we present here a specific framework using passive BCIs to develop a neurophysiological inference model of IS constructs."
+    },
+
+    "article24": {
+        "title" : "Emotion Is not What You Think It Is: Startle Reflex Modulation (SRM) as a Measure of Affective Processing in NeuroIS",
+        "abstract" : "Emotion is a widely used term in various different fields. The problem is that across and even within those fields scholars are not sharing a common understanding of it. This strongly counterproductive situation hinders ongoing progress and might even lead to false understandings. This conceptual paper offers a solution and also introduces a method called startle reflex modulation (SRM). It has been described since the late 80s in the human literature and is widely used in emotion research to measure raw affective responses. Meanwhile, besides in the frame of basic science studies it has also been applied to clinical and most recently even industry-relevant topics. It is suggested that SRM does indeed represent a highly valuable new approach to quantify affective processing in the context of NeuroIS (e.g. technology acceptance). Often, self-reported affect differs from objectively measured affect."
+    },
+
+    "article25": {
+        "title" : "Measuring Flow Using Psychophysiological Data in a Multiplayer Gaming Context",
+        "abstract" : "Flow is a desirable state where an individual is focused and satisfied. Traditional flow models are based on an individual’s skills and the challenges he faces. The objective of this ongoing research is to investigate, in a gaming context, how a player’s and his teammate’s personality and neurophysiological reactions can contribute in explaining a player’s flow assessment. Our preliminary results show that adding these measures significantly increases the performance of predicting flow models."
+    },
+
+    "article26": {
+        "title" : "Using a Cognitive Analysis Grid to Inform Information Systems Design",
+        "abstract" : "Following our first conceptualization of a cognitive analysis grid (CA grid) for IS research in 2014, the CA grid was improved and tested in a proof of concept manner. The theory and application of this method are briefly explained, along with lessons learned from a first experiment. The next steps in the validation of this method include applying it to a wider group of naïve participants. This will allow to draw statistical parallels between the cognitive demand of the interface and the performance of the users based on their cognitive profile. Ultimately, this technique should be useful both in NeuroIS research and user experience (UX) tests to guide hypotheses and explain user’s performance."
+    },
+
+    "article27": {
+        "title" : "Research Directions for Methodological Improvement of the Statistical Analysis of Electroencephalography Data Collected in NeuroIS",
+        "abstract" : "This proposed research will study and improve the statistical methodology used with neurophysiological data collected from subjects using information systems (IS). This research thus aims to provide guidelines and propose new statistical models constructed explicitly for the analysis of electroencephalography (EEG) data in IS research, where the number of EEG trials is often limited to preserve the ecological validity of the experiment. Two new modeling strategies are proposed: first, we will model explicitly the correlation between repeated trials by finding appropriate correlation structures. Secondly, we will reduce the measurement’s error by using explicitly the cyclic behavior of an electrical brain signal. These new models will then be taken into account to derive new formulas for sample size determination."
+    },
+
+    "article28": {
+        "title" : "Measuring Visual Complexity Using Neurophysiological Data",
+        "abstract" : "The effects of design and aesthetics on interface usability has become an important research topic in recent years. In this paper, we propose a new method of visual complexity evaluation based on the users’ neurophysiological signals. In order to be truly insightful, a visual representation of such signals will be mapped onto the interface using physiological heatmaps. The method’s intended purpose is to inform practitioners and researchers in information system on how different interface designs affect perceived visual complexity."
+    },
+
+    "article29": {
+        "title" : "Using NeuroIS to Better Understand Activities Performed on Mobile Devices",
+        "abstract" : "With the proliferation of mobile device types and variety of tasks being performed on those devices, it is necessary to examine how this pairing changes with individuals. NeuroIS offers complementary tools to traditional survey tools helping researchers delve into users’ perceptions while they are engaged in different tasks. Through analysis of neurophysiological data we may better understand activities performed on mobile devices and help provide more customized user experiences. A two-part preliminary study is described as a pre-cursor to a larger, focused experiment utilizing EEG and eye-tracking on mobile device usage."
+    }
+
+}

@@ -1,0 +1,161 @@
+{
+    "article01": {
+        "title" : "NeuroIS: A Survey on the Status of the Field",
+        "abstract" : "NeuroIS has emerged as a research field in the Information Systems (IS) discipline over the past decade. Since the inaugural NeuroIS Retreat in 2009, 166 individuals participated at this annual academic conference to discuss research and development projects at the nexus of IS and neuroscience research. Motivated by the fact that the NeuroIS Retreat celebrates its 10-year anniversary in 2018, we invited all 166 former participants of the NeuroIS Retreat to state their opinions in an online survey on the development of the field and its future. In this paper, we summarize the answers of N = 60 respondents regarding NeuroIS topics and methods."
+    },
+    "article02": {
+        "title" : "Improving Security Behavior Through Better Security Message Comprehension: fMRI and Eye-Tracking Insights",
+        "abstract" : "Security warnings are critical to help users make contextual security decisions. Unfortunately, users find these warnings hard to understand, and they routinely expose themselves to unintended risks as a result. Although it is straightforward to determine when users fail to understand a warning, it is more difficult to pinpoint why this happens. The goal of this research is to use eye tracking and fMRI to step through the building blocks of comprehension—attention, semantics, syntax, and pragmatics—for SSL and other common security warnings. Through this process, we will identify ways to design security warnings to be more easily understood."
+    },
+
+    "article03": {
+        "title" : "Neural Activity Related to Information Security Decision Making: Effects of Who Is Rewarded and When the Reward Is Received",
+        "abstract" : "Breaches of information security resulting from cybercrime represents a significant threat to the security and well-being of individuals, corporations, and governments. Therefore, understanding the neurocognitive processes that lead individuals to violate information security policy represents a fundamental pursuit for NeuroIS researchers. In the current study, we examined the effects of whether an individual or a close associate benefited from a violation of information security, and the temporal delay before the benefit was received on event-related brain potentials (ERPs) related to ethical decision making. The electrophysiological data revealed modulations of the ERPs that were generally sensitive to ethical decision making, or that were specifically sensitive to the recipient or timing of the reward. The components that were sensitive to the two independent variables were observed over the anterior frontal region of the scalp, consistent with the neuroimaging literature demonstrating that several prefrontal structures participate in self-referent processing and intertemporal choice."
+    },
+
+    "article04": {
+        "title" : "NeuroIS for Decision Support: The Case of Filmmakers and Audience Test Screenings",
+        "abstract" : "The application of neuroscience theories, methods, and tools holds great potential for the development of novel decision support systems. In this paper, we develop a theoretical framework for how NeuroIS may support the test screening process of filmmakers where decisions are made about what narrative material is shown to the audience, what sequence it is to be ordered, and what emotional value it must carry. While current methods for audience test screenings commonly rely on standardized questionnaires and focus groups, decision support systems may employ neuroscience tools as built-in functions to provide the filmmaker with novel insights into how their movie is ultimately perceived by the audience. Thereby, a key focus lies on the coherence between the emotional experience intended by the filmmaker and the emotional experience exhibited by the audience. Further, NeuroIS allows an evaluation of how the emotional experience to specific cinematic moments affects overall movie satisfaction."
+    },
+
+    "article05": {
+        "title" : "Measuring the Impact of Mind Wandering in Real Time Using an Auditory Evoked Potential",
+        "abstract" : "In this research-in-progress paper, we propose an experiment to investigate the neurophysiological correlates of mind wandering using electroencephalography (EEG). Auditory oddball event related potentials have been observed to be sensitive to the mind wandering state and can be used as a real-time passive measure. This has advantages over standard survey techniques because it is an objective, non-disruptive real time measure. We describe an experiment to observe the neuro-physiological correlates of mind wandering in online learning environments using an auditory oddball. In doing so, we introduce a new experimental paradigm to the IS literature which could be used to extend other attention-related research."
+    },
+
+    "article06": {
+        "title" : "Exploring Eye-Tracking Data for Detection of Mind-Wandering on Web Tasks",
+        "abstract" : "Mind-wandering (MW) is a phenomenon that affects most of us; it affects our interactions with information systems. Yet the literature on its effects on human-computer interaction is only scant. This research aims to contribute to establishing eye-tracking measures that could be used to detect periods of MW while a user is engaged in interaction with online information. We conducted a lab study (N􏰀 30) and present an exploratory analysis of eye-tracking data with a focus on finding differences between periods of MW and not-MW. We found 12 eye tracking measures that were significantly different between periods of MW and not-MW. We also show promising classification results of the same variables. Our results indicate plausibility of using eye-tracking data to infer periods of MW."
+    },
+
+    "article07": {
+        "title" : "Attentional Characteristics of Anomaly Detection in Conceptual Modeling",
+        "abstract" : "We use eye tracking to better understand the attentional characteristics specific to successful error detection in conceptual models. This phase of our multi-step research project describes the visual comportments associated with successful semantic and syntactic error identification and diagnosis. We test our predictions, based on prior studies on visual attention in an error detection task, or studies comparing experts and non-experts in diverse tasks, in a controlled experiment where participants are tasked with detecting and diagnosing errors in 75 BPMN® models. The results suggest that successful error diagnostics are linked with shorter total view time and shorter fixation duration, with a significant difference between semantic and syntactic errors. By identifying the visual attention differences and tendencies associated with successful detection tasks and the investigation of semantic and syntactic errors, we highlight the non-polarity of the ‘scale’ of expertise and allow clear recommendations for curriculum development and training methods."
+    },
+
+    "article08": {
+        "title" : "Paying Attention Doesn’t Always Pay off: The Effects of High Attention Load on Evaluations of Ideas",
+        "abstract" : "Creativity is a key driver of success for organizations in the digital age. Managers engaged in evaluating the creativity of new ideas are often subject to a myriad of technology-mediated distractors that compete for their attention. In this work in progress paper, we investigate whether attentional overload results in an upward bias for IT-mediated creativity evaluations. We report on promising early results that examines this phenomenon and set out to study its implications on IT design complexity."
+    },
+
+    "article09": {
+        "title" : "Using Gaze Behavior to Measure Cognitive Load",
+        "abstract" : "Measuring and influencing cognitive load during information processing can be seen as a promising instrument to mitigate the risk of information overload while increasing processing capabilities. In this study, we demonstrate how to use cross-sectional time-series data generated with an eye tracking device to indicate cognitive load levels. Thereby we combine multiple measures related to fixations, saccades and blinks and calculate one comprehensive and robust measure. Applicability is demonstrated by conducting two separate experiments in a decision-making scenario in the context of information visualization."
+    },
+
+    "article10": {
+        "title" : "The Impact of Gestures on Formal Language Learning and Its Neural Correlates: A Study Proposal",
+        "abstract" : "This pilot study reports about the impact of gestures on learning a formal language like Python. The aim of this research-in-progress is to find out if memory performance will benefit from the coupling of gestures and words in the learning phase. Previous research has demonstrated that gestures accompanying speech have an impact on memory for verbal information. This is the first study applying the body-mind concept to formal language learning. We introduce the study design and the results of one person."
+    },
+
+    "article11": {
+        "title" : "A Cloud-Based Lab Management and Analytics Software for Triangulated Human-Centered Research",
+        "abstract" : "This paper introduces a cloud-based lab management and analytics software platform that we have developed for triangulated human-centred research. The solution is designed to support three main requirements: (1) It enables accurate triangulation of enriched UX measures; (2) It produces triangulated enriched measures in a timely manner; and (3) it helps to generate meaningful recommendations. The application supports the key activities that are required to conduct an enriched UX research project: (1) Designing the UX test; (2) Planning and scheduling the test; (3) Executing the test; (4) Post-processing and triangulating of the collected data; (5) Analyzing and visualizing of the data and; (6) Lab Maintenance. At the time of publication, the application is currently at technology readiness level (TRL) 6 and we are currently conducting beta testing in academic and commercial lab to demonstrate the technology an operational environment."
+    },
+
+    "article12": {
+        "title" : "brownieR: The R-Package for Neuro Information Systems Research",
+        "abstract" : "Neuro-Information-Systems (NeuroIS) research has become an established approach in the information systems (IS) discipline for investigating and understanding user behavior. Our outlined package with the name brownieR is a freely-available open source R-package for analyzing NeuroIS data (i.e. the combination of physiological and behavioral data). The central purpose of this work is to instruct researchers how brownieR can be used in IS research by providing a practical guide on how to conduct the analysis of bio-physiological data combined with behavioral data (e.g., from the web, experimental tasks, or log files). Further, the article provides an analysis framework and covers the different stages involved in analyzing physiological data."
+    },
+
+    "article13": {
+        "title" : "Enhancing the Implicit Association Test: A Four-Step Model to Find Appropriate Stimuli",
+        "abstract" : "The Implicit Association Test (IAT) is a promising tool to assess implicit attitudes. Next to neuroscientific methods applied within the field of NeuroIS the IAT helps to overcome limits of traditional approaches, such as self-report studies. Introduced 20 years ago, it has been developed further within subsequent years. However, hardly any attention has been paid to optimize the stimuli sets. This is unfortunate, as if the time span participants need to decode the stimuli varies across the IAT, or if the subjects do not understand the stimuli equally, reaction times can be biased. As an IAT includes 120 measuring points per subject such biases might potentiate across all participants. The results might be biased and neither the researchers nor the participants would recognize such confounding effects. Thus, we focus on the time span between stimulus onset and response and develop a four-step model to create an optimized stimuli set including (1) brainstorming, (2) forming & performing (i.e. pretesting), (3) backward-brainstorming and (4) informing & interviewing."
+    },
+
+    "article14": {
+        "title" : "Facebrain: A P300 BCI to Facebook",
+        "abstract" : "Facebrain is a novel brain-computer interface utilizing the P300 signal as input for interacting with the Facebook social media platform. Electroencephalography along with the open-source BCI2000 software suite is used for both obtaining and processing the signals. Additionally, BCPy2000, an add-on allowing BCI2000 modules to be written in the scripting language Python, is utilized to allow for rapid interface generation, promoting extensibility, and a cross-platform solution. Users are able to select basic Facebook operations via a P300 matrix and then activate a P300 speller as needed for text input. Overall, the purpose of the system is to allow functional, hands-free, and voiceless access to Facebook’s main features including, but not limited to, searching for and adding friends, making posts, using the chat system, and browsing profiles."
+    },
+
+    "article15": {
+        "title" : "Sustained Attention in a Monitoring Task: Towards a Neuroadaptative Enterprise System Interface",
+        "abstract" : "In today’s data-driven information technology environment, the ability of humans to sustain attention over long periods of time has become an increasingly important skill. We report work in progress to create a novel passive brain computer interface (pBCI), designed to modulate a user’s level of sustained attention in an ecologically valid information system (IS) context. To modulate sustained attention, we take measures of cognitive engagement and vigilance using electroencephalography (EEG) in real time, to form the basis of the BCI, and create a closed neurophysiological feedback loop which adapts elements of a dynamic user interface according to the user’s level of sustained attention. The interface utilizes the ERPsim simulation engine to create an ecologically valid IS task supported by a real-life ERP framework."
+    },
+
+    "article16": {
+        "title" : "Towards Designing Robo-advisors for Unexperienced Investors with Experience Sampling of Time-Series Data",
+        "abstract" : "We propose an experimental study to examine how to optimally design a robo-advisor for the purposes of financial risk taking. Specifically, we focus on robo-advisors which are able to (i) “speak” the language of the investors by communicating information on the statistical properties of risky assets in an intuitive way, (ii) “listen” to the investor by monitoring her emotional reactions and (iii) do both. The objectives of our study are twofold. First, we aim to understand how robo-advisors affect financial risk taking and the revisiting of investment decisions. Second, we aim to identify who is most affected by robo-advice."
+    },
+
+    "article17": {
+        "title" : "Neural Correlates of Human Decision Making in Recommendation Systems: A Research Proposal",
+        "abstract" : "Significant research has been conducted on human decision making behavior in recommendation systems during the past decade, yet it remains a challenge to design effective and efficient recommendation systems so that they not only produce useful suggestions and ease the decision making task but also turn it into a pleasurable experience. Algorithms have been designed based on research that highlight individual theoretical constructs yet there is an absence of a comprehensive model of human decision-making. This research offers an insight into the core of this issue by examining the neural correlates of human decision-making using Electroencephalography (EEG). The insights generated maybe used to construct a comprehensive model of human decision making in recommendation systems and generate new design principles for the same."
+    },
+
+    "article18": {
+        "title" : "Cognitive Fit and Visual Pattern Recognition in Financial Information System: An Experimental Study",
+        "abstract" : "This experimental study uses traders to understand the effect of cognitive fit on the performance of decision makers for pattern recognition tasks using financial information systems. Building upon signal detection theory, we find that performance is affected by both attention level and working memory capacity while the level of knowledge in finance and experience in finance have no significant impact. Our results also suggest that overconfidence has a detrimental effect on performance."
+    },
+
+    "article19": {
+        "title" : "How Attention Networks Can Inform Research in Information Systems",
+        "abstract" : "Attention is a construct that has been pursued throughout the information systems literature. It is also a topic that has been extensively studied in the cognitive neuroscience literature. To our knowledge there has not been any comprehensive work to bridge these two bodies of work. This idea paper introduces the Attention Networks model, which is one of the prominent models of attention in cognitive neuroscience. We also introduce the Attention Network Test, one of the prominent measures of attention networks. We explore two ways that the model can inform information systems research and conclude that there are many other potential ways that the study of attention networks can advance research in information systems."
+    },
+
+    "article20": {
+        "title" : "A Domains Oriented Framework of Recent Machine Learning Applications in Mobile Mental Health",
+        "abstract" : "This research illustrates how the interdisciplinary integration of mobile health (mHealth) and Machine Learning (ML) can contribute to implementing mobile care for mental health. 94 articles were identified in a literature review to derive functional domains and composing information items improving the comprehension of ML benefits with mHealth integration. Identified items of each domain were pooled into clusters and information flow was quantified according to prevailing occurrence of included articles. We derive a comprehensive domains oriented framework (DF) and visualize an information flow graph. The DF indicates that the utilization of ML is well established (e.g. stress detection, activity recognition). Because deployment and data acquisition currently relies heavily on mobile phones, only 65% of current applications make fully integrated use of data sources to assert patient’s mental state. Big data integration and a lack of commercially available devices to measure physiological or psychological parameters represent current bottlenecks to leverage synergies."
+    },
+
+    "article21": {
+        "title" : "Microsaccades as a Predictor of a User’s Level of Concentration",
+        "abstract" : "In comparison to voluntary eye movements (saccades), micro-saccades are very small, jerk-like and involuntary. While microsaccades and cognition has become one of the most rapidly growing areas of study in visual neuroscience [Trends Neurosci. 32: 463–475], microsaccades are still neglected in NeuroIS. Using experimental data by Walcher et al. [Conscious Cogn. 53:165–175; Data Brief 15:18–24] we demonstrate the potential of microsaccades to evaluate the level of concentration a user perceives during task fulfillment. As a result we found a substantial negative relationship between the magnitudes of the microsaccades and the level of concentration (p < 0.01)."
+    },
+
+    "article22": {
+        "title" : "Tracking and Comparing Eye Movements Patterns While Watching Interactive and Non-interactive Videos",
+        "abstract" : "In this paper, we demonstrate how our eye moments differ when we are watching non-interactive videos (sports clips) versus interactive videos (video games clips). We obtained the eye tracking data from Collaborative Research in Computational Neuroscience’s (CRCNS) data sharing set; we analyzed the subsets of eye movement data which were tracked while the test subjects were watching sports clips (videos whose contents are non-interactive) and video game clips (videos whose contents are interactive). We then compare the variations of both x-and y-coordinate eye movements between watching real videos and watching animated videos to identify the difference in eye movement patterns between the cases. Moreover, we also conducted tests on to see if there exists any difference in the distribution of the eye status of fixation or saccade between the cases. Our results provide insights into the cognitive processes when people are watching videos. We also discuss the implications of our results to the various applications in IS field."
+    },
+
+    "article23": {
+        "title" : "The Impact of Using a Gamified Interface on Engagement in a Warehousing Management Task: A NeuroIS Research Proposal",
+        "abstract" : "Engagement, or rather lack thereof has become a major issue because of its negative impact on productivity. Recently, gamification has successfully been implemented into corporate technological interfaces to increase engagement of employees. This paper proposes a theory-driven experiment that examines the impact a gamified interface has on engagement and performance of workers in a warehouse-management task. Specifically, the experiment proposed in this paper compares how the integration of two different types of goal-setting (self-set goals or assigned goals) into a warehouse-employee interface will affect engagement and performance."
+    },
+
+    "article24": {
+        "title" : "Effect of Emotion on Content Engagement in Social Media Communication: A Short Review of Current Methods and a Call for Neurophysiological Methods",
+        "abstract" : "Engagement with content is vital for companies to achieve overall marketing goals (e.g., sales). Emotional content has the potential to grab attention and evoke the desired engagement. Our goal is to review the research methods used in the extant literature on the emotional effect on content engagement in social media communication. The findings show an unbalanced use of methods. Content analysis and emotion coding procedures are the dominant methods, while other methods have hardly been used. Based on this finding, we argue that future research needs to deploy neurophysiological methods to capture the complex emotion construct. Because neurophysiological methods are often applied in experimental settings, an increasing use of these methods would also imply a more advanced discovery of causal effects, thereby better clarifying the role of emotion in the content engagement process."
+    },
+
+    "article25": {
+        "title" : "To like or Not to Like in the World of Instagram: An Eye-Tracking Investigation of Instagram Users’ Evaluation Process for Liking an Image",
+        "abstract" : "For image-based social media (e.g., Instagram or Snapchat), understanding people’s decision behind their liking of photos is critical to researchers and practitioners. The liking decision toward an image, however seemingly simple and effortless for browsers, involves an interplay among evaluation dimension (hedonic vs. utilitarian), social influence (pre-existing number of likes), user characteristics, and underlying cognitive activities (effort and attention). The preliminary results from our eye-tracking studies show that the utilitarian evaluation of an image is negatively associated with its liking probability, effort (pupil dilation), and attention (fixation time). Social influence is shown to affect long-term social media users by increasing their hedonic rating and liking intention. The results suggest that using eye movements to predict the liking intention in social media requires the understanding of products’ prominent evaluation dimension and users’ characteristics. Discussions and future work are also presented."
+    },
+
+    "article26": {
+        "title" : "Cognitive Work Protection—A New Approach for Occupational Safety in Human-Machine Interaction",
+        "abstract" : "Previous occupational safety concepts in human-machine interaction scenarios are based on the principle of spatial separation, reduction of collision force or distance monitoring between humans and robots. Collaborative robot systems and semi-automated machines are working closely with people in more and more areas, both spatially and functionally. Therefor a new approach for occupational safety in close human-machine collaboration scenarios is presented. It relies on a real-time EEG measurement of human workers with brain computer interfaces and a subsequent adjustment of the robot system based on the detected cognitive states."
+    },
+
+    "article27": {
+        "title" : "Analysis of Heart Rate Variability (HRV) Feature Robustness for Measuring Technostress",
+        "abstract" : "Technostress has become an important topic in the scientific literature, particularly in Information Systems (IS) research. Heart rate variability (HRV) has been proposed as a measure of (techno)stress and is widely used in scientific investigations. The objective of the pilot study reported in this paper is to showcase how the preprocessing/cleaning of captured data can influence the results and their interpretation, when compared to self-report data. The evidence reported in this paper supports the notion that NeuroIS scholars have to deliberately make methodological decisions such as those related to preprocessing of physiological data. It is therefore crucial that methodological details are presented in NeuroIS papers in order to create a better understanding of the study results and their implications."
+    },
+
+    "article28": {
+        "title" : "Wearable Devices: A Physiological and Self-regulatory Intervention for Increasing Attention in the Workplace",
+        "abstract" : "Despite stress associated with work overload, employees are still expected to maintain attentional focus and generate new knowledge. However, attention in the work environment is a scarce resource making completing tasks under stress increasingly difficult. There are few technological interventions used in the IS literature targeted at both decreasing stress and increasing attention. Wearable device technologies may facilitate such processes due to their ability to collect real-time physiological measures and cue individuals at moments when they should take action. Self-regulation theories consider attentional resources and cognitive processes used to consciously control performance, thoughts, and the recognition of emotions. However, stressors reduce the availability of attentional resources, where maximum attention only occurs during moderate levels of physiological arousal. We examine both cognitive and physiological paths affecting attentional processes and propose a technology-mediated intervention to study these effects."
+    },
+
+    "article29": {
+        "title" : "Exploring Flow Psychophysiology in Knowledge Work",
+        "abstract" : "We report on a first exploration of a new paradigm to study flow physiology in knowledge work that we call controlled experience sampling (cESM) in order to build a bridge for flow physiology research to more unstructured tasks. Results show that the approach elicits a consistent flow experience with intensities as least as high as in an established difficulty-manipulated math task. Yet, significantly lower stress perceptions and heart rate variability (HRV) responses are found in the cESM approach which highlights gaps and consequences for the diagnostic potential of HRV features for the understanding of flow physiology and automated flow observation in bio-adaptive systems."
+    },
+
+    "article30": {
+        "title" : "Asking Both the User’s Heart and Its Owner: Empirical Evidence for Substance Dualism",
+        "abstract" : "Mind-body physicalism is the metaphysical view that all mental phenomena are ultimately physical phenomena, or are necessitated by physical phenomena. Mind-body dualism is the view that at least some mental phenomena are non-physical. While mind-related concepts are usually measured using questionnaires, body-related concepts are measured using physiological instruments. We breakdown the narrowed measuring approaches within the simplified mind-body discussion to all four possible substance-measuring pairs and evaluate the mind-body substance dualism theory versus the physicalism theory applying perceived and physiological measured stress data using a wearable long-term electrocardiogram recorder. As a result we derive empirical evidence and strong arguments against physicalism, and assess the overall strength of the benefits of NeuroIS instruments as complementary measures."
+    },
+
+    "article31": {
+        "title" : "Cardiovascular, Neurophysiological, and Biochemical Stress Indicators: A Short Review for Information Systems Researchers",
+        "abstract" : "We conducted a systematic review of the scientific literature on indicators for stress measurement. The full texts of 128 articles (published in the period 1970–2017) were analyzed and we identified a total of 21 different stress indicators, including cardiovascular, neurophysiological, and biochemical measures. Moreover, we analyzed the frequency of use of the indicators. Glucocorticoids including the hormone cortisol (52 out of 128 articles), heart rate (HR) and heart rate variability (HRV) (50/128), as well as diastolic blood pressure (DBP) and systolic blood pressure (SBP) (40/128), are the dominant stress indicators. Also, we found that half of the articles (64/128) report about at least two different stress indicators, thus a combination of biological measurement approaches is relatively common in stress research. This review holds value for researchers in the Information Systems (IS) discipline and related interdisciplinary research fields such as technostress."
+    },
+
+    "article32": {
+        "title" : "The Neuroscience of Smartphone/Social Media Usage and the Growing Need to Include Methods from Psychoinformatics",
+        "abstract" : "The present work gives a brief overview of the current state of affairs in the investigation of the neuroscientific underpinnings of social media use. Such an overview is of importance because individuals spend significant amounts of time on these ‘social’ online channels. Despite several positive aspects of social media use, such as the ability to easily communicate with others across long distances, it is clear that detrimental effects on our brains and minds are possible. Given that much of the neuroscientific and psychological research conducted up to now relies solely on self-report measures to assess social media usage, it is argued that neuro-scientists/psychologists need to include more digital traces resulting from human-machine/computer interaction, and/or information shared by individuals on social media, in their scientific analyses. In this realm, digital phenotyping can be achieved via methods of ‘Psychoinformatics’, a merger of the disciplines psychology and computer science/informatics."
+    }
+
+}
