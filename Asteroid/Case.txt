@@ -1,0 +1,2 @@
+- Firma: SpaceObs
+- Ziel: Entdecken von Gefahren für Sateliten durch Asteroiden
