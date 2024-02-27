@@ -1,0 +1,1 @@
+The data is for a sample size of 129,880 customers. It includes data points such as class, flight distance, and inflight entertainment to be used to predict whether a customer will be satisfied with their flight experience.
